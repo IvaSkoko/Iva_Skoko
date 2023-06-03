@@ -32,7 +32,7 @@ h1, h2, h3 {
 	a:link {
 		color: black;
 		background-color: rgba(238, 210, 210, 0.4);
-		paddinf: 5px;
+		padding: 5px;
 		line-height: 40px;
 		border: 1px solid #000000; 
 		}
